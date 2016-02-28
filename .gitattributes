@@ -1,1 +1,5 @@
-linguist-language=Java
+* text=auto
+*.css           text
+
+*.php         binary
+
